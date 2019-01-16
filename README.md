@@ -55,7 +55,7 @@ cordova plugin add cordova-universal-links-plugin
 It is also possible to install via repo url directly (**unstable**)
 
 ```sh
-cordova plugin add https://github.com/nordnet/cordova-universal-links-plugin.git
+cordova plugin add https://github.com/sudhansurana/cordova-universal-links-plugin.git#v1.2.2
 ```
 
 ### Migrating from previous versions
