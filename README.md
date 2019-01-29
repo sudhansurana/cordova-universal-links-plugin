@@ -52,7 +52,7 @@ This requires cordova 5.0+ (current stable 1.2.1)
 cordova plugin add cordova-universal-links-plugin
 ```
 
-It is also possible to install via repo url directly (**unstable**)
+It is also possible to install via repo url directly
 
 ```sh
 cordova plugin add https://github.com/sudhansurana/cordova-universal-links-plugin.git#v1.2.2
